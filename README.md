@@ -1,5 +1,6 @@
 # Django-online_market_CMS
 内容包括集成第三方UI组件（simpleui）搭建admin，实现MySQL连接、接口访问和图片存储。适合新手参考
+
 环境：win10  python3.7  Django3.0
 
 新手提示：
