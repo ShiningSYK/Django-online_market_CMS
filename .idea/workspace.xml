@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50450973-6da2-4542-9dc0-c371ed3ff2d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7961f8f-679a-49ae-87bf-97235f6f14df.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d7961f8f-679a-49ae-87bf-97235f6f14df/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMS/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMS/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMS/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/migrations/0002_auto_20200102_1619.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/migrations/0003_auto_20200104_1333.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/migrations/0004_auto_20200104_1343.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activity/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0002_auto_20200102_1313.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0003_auto_20200102_1324.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0004_auto_20200102_1418.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0005_auto_20200102_1543.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0006_auto_20200102_1630.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0007_auto_20200103_0321.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/0008_auto_20200103_0331.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/2_KImJl7a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/a9a941b55b55de3b58b2c360dd3e035f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/a9a941b55b55de3b58b2c360dd3e035f_mgzj7My.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/jike_401017860713689_pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/wallhaven-393335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/wallhaven-6k229q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/wallhaven-lmkk5l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/wallhaven-lmkk5l_FlA67df.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/wallhaven-md18g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/北欧桌子1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/北欧桌子2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/北欧桌子3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/头像.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/头像.thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/imgs/桌面1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/migrations/0002_auto_20200102_1619.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/migrations/0003_auto_20200103_1937.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/migrations/0004_auto_20200103_1944.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0002_auto_20200102_1619.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0003_auto_20200103_0452.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0004_auto_20200103_1548.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0005_auto_20200103_1937.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0006_auto_20200103_2029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="web-project" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="web-project" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="web-project" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="web_cms: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UbS3a5YGcHcSi9ixRcMD9NDMIQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\大学四年\Web项目实训\CMS\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\大学四年\Web项目实训\CMS\static\media" />
+      <recent name="D:\大学四年\Web项目实训\CMS\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="enums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CMS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CMS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/commodity" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commodity/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CMS" type="Python.DjangoServer" factoryName="Django server">
+      <module name="CMS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.enums" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50450973-6da2-4542-9dc0-c371ed3ff2d2" name="Default Changelist" comment="" />
+      <created>1575623602459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575623602459</updated>
+      <workItem from="1575623603828" duration="4152000" />
+      <workItem from="1577094416266" duration="1889000" />
+      <workItem from="1577153394191" duration="2675000" />
+      <workItem from="1577158869916" duration="10185000" />
+      <workItem from="1577245690038" duration="611000" />
+      <workItem from="1577281847641" duration="1255000" />
+      <workItem from="1577283291842" duration="1720000" />
+      <workItem from="1577441326374" duration="24000" />
+      <workItem from="1577495985772" duration="3000" />
+      <workItem from="1577776831003" duration="812000" />
+      <workItem from="1577864210192" duration="6424000" />
+      <workItem from="1577871452841" duration="15487000" />
+      <workItem from="1577893223530" duration="1261000" />
+      <workItem from="1577927716597" duration="20239000" />
+      <workItem from="1577971564179" duration="20840000" />
+      <workItem from="1578032396100" duration="11611000" />
+      <workItem from="1578051184967" duration="4740000" />
+      <workItem from="1578115044048" duration="19650000" />
+      <workItem from="1578199956701" duration="2466000" />
+      <workItem from="1578232818820" duration="1211000" />
+      <workItem from="1578291555834" duration="3643000" />
+      <workItem from="1578313139591" duration="883000" />
+      <workItem from="1578554933662" duration="845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577870433576">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577870433576" />
+    <state x="695" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577094478239">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="348" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577094478239" />
+    <state x="528" y="141" key="CommitChangelistDialog2" timestamp="1578555494748">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="528" y="141" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1578555494748" />
+    <state width="981" height="241" key="GridCell.Tab.0.bottom" timestamp="1578199984566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="981" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578199984566" />
+    <state width="981" height="241" key="GridCell.Tab.0.center" timestamp="1578199984566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="981" height="241" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578199984566" />
+    <state width="981" height="241" key="GridCell.Tab.0.left" timestamp="1578199984566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="981" height="241" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578199984566" />
+    <state width="981" height="241" key="GridCell.Tab.0.right" timestamp="1578199984566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="981" height="241" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578199984566" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1577870428351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1577870428351" />
+    <state x="663" y="276" key="IDE.errors.dialog" timestamp="1577876981657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="663" y="276" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577876981657" />
+    <state x="463" y="185" key="SettingsEditor" timestamp="1578555464562">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578555464562" />
+    <state x="765" y="350" width="336" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1577876940275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="350" width="336" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1577876940275" />
+    <state x="258" y="259" width="934" height="704" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1577867506719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="258" y="259" width="934" height="704" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577867506719" />
+    <state x="782" y="259" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1577870444847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="782" y="259" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577870444847" />
+    <state x="667" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1578554957411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578554957411" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1577995107186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1577995107186" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CMS$views.coverage" NAME="views Coverage Results" MODIFIED="1578130155473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commodity" />
+    <SUITE FILE_PATH="coverage/CMS$enums.coverage" NAME="enums Coverage Results" MODIFIED="1577885070543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
